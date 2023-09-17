@@ -18,6 +18,6 @@ The clone includes various sections and features found on the original college w
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/college-website-clone.git
-   cd [Directory]
+   cd college-website-clone
    npm install
    npm start
